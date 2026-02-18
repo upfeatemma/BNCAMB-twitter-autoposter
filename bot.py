@@ -6,7 +6,7 @@ import time
 
 # --- CONFIGURATION ---
 RSS_URL = "https://boringnews.ca/manitoba/feed/"
-HASHTAGS = "#manitobanews
+HASHTAGS = "#manitobanews"
 LOG_FILE = "posted.log"
 
 # --- AUTHENTICATE ---
