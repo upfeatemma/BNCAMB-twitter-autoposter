@@ -5,8 +5,8 @@ import sys
 import time
 
 # --- CONFIGURATION ---
-RSS_URL = "https://thethompsonnews.ca/feed/"
-HASHTAGS = "#ThompsonMB #thethompsonnews"
+RSS_URL = "https://boringnews.ca/manitoba/feed/"
+HASHTAGS = "#manitobanews
 LOG_FILE = "posted.log"
 
 # --- AUTHENTICATE ---
